@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FaWordProject</string>
+    <string name="title">Wordle Game</string>
+    <string name="img1">img1</string>
+    <string name="img2">img2</string>
+    <string name="enterBtn">Enter</string>
+    <string name="PalabraEdit">type word</string>
+</resources>
